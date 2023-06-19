@@ -3,7 +3,7 @@
 //Global scope variables
 
 //PLU Data Center
-
+alert("The Game may contain flashing lights, images, and other luminous stimulations which may induce epileptic seizures in certain individuals. If you or anyone in your household has an epileptic condition, please consult your doctor before playing any Game. If you experience dizziness, altered vision, eye or muscle twitches, loss of awareness, disorientation, any involuntary movement, or convulsions while playing, please immediately discontinue playing the Game and consult your doctor."); 
 let pluName = [ //0=banana, 1=apple, 2=herbs, 3= peppers, 4=lettuce
 ["banana", "organic banana"],
 ["gala apple", "honeycrisp apple", "granny smith apple", "macintosh apple"],
